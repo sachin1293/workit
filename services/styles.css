@@ -1,0 +1,25 @@
+#pricing {
+    padding: 100px;
+}
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5rem;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.card-img {
+    max-height: 200px;
+}
+
+.star {
+    color: gold;
+}
